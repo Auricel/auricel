@@ -32,7 +32,7 @@ Iniciando en el mundo del **Full Stack Developer**, recién egresada de un bootc
 ### 🗄️ Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
