@@ -1,6 +1,14 @@
+
 # 👋 Hello World! Soy Auricel Pazos
 
 Iniciando en el mundo del **Full Stack Developer**, recién egresada de un bootcamp intensivo, y actualmente afianzando mis conocimientos en desarrollo web. Me encanta aprender nuevas tecnologías y construir proyectos que mezclen frontend y backend de manera eficiente.
+
+---
+## 🧠 Estado actual del desarrollador
+
+![Aprendiendo de los errores](https://i.redd.it/jro7yme7tbmd1.gif)
+
+> Aprendiendo, equivocándome y mejorando cada día 🚀
 
 ---
 
